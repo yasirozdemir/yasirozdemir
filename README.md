@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 Full-stack developer trainee at EPICODE<br>🏫 Student at Marmara University (Management and Information Systems)<br> 🚀 Interested in space and aviation<br>🌱 Willing to improve my soft & hard skills<br>🌍 Future digital nomad
-
+💻 Full-stack developer<br>🚀 Interested in space and aviation<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasirunofficial_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedyasirozdemir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammedyasirozdemir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/myasirozdemir) 
