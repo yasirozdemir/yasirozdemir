@@ -1,6 +1,6 @@
 ## 🤓 About Me:
 
-<p align="justify" style="text-indent: 1rem;"> I’m a full stack developer with diverse international experience, an interest in technology, and a passion for continuous learning. I’ve recently completed EPICODE's full stack developer boot camp which helped me develop a range of skills in web development, including TypeScript, React, Express, and Node.js. Currently, I’m looking for a job as a full stack developer in a dynamic and innovative company where I can keep enhancing my soft & hard skills, and make an impact.</p>
+<p align="justify">     I’m a full stack developer with diverse international experience, an interest in technology, and a passion for continuous learning. I’ve recently completed EPICODE's full stack developer boot camp which helped me develop a range of skills in web development, including TypeScript, React, Express, and Node.js. Currently, I’m looking for a job as a full stack developer in a dynamic and innovative company where I can keep enhancing my soft & hard skills, and make an impact.</p>
 
 [![](https://visitcount.itsvg.in/api?id=yasirozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
 
