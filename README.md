@@ -1,6 +1,8 @@
 ## 🤓 About Me:
 
-<p align="justify"> I’m a full stack developer with diverse international experience, an interest in technology, and a passion for continuous learning. I’ve recently completed EPICODE's full stack developer boot camp which helped me develop a range of skills in web development, including TypeScript, React, Express, and Node.js. Currently, I’m looking for a job as a full stack developer in a dynamic and innovative company where I can keep enhancing my soft & hard skills, and make an impact.</p>
+<p align="justify">As a full-stack web developer, I enjoy creating innovative and impactful solutions using cutting-edge technologies. I have recently graduated from EPICODE, a rigorous and intensive full-stack developer boot camp that taught me how to use TypeScript, React, Node.js, Express, and MongoDB to build scalable and user-friendly web applications.
+
+I also have diverse international experience, having worked at Great Wolf Lodge in the United States, an Erasmus+ project participation in France, and online digital mentorship at Rome Business School. Through these opportunities, I developed my teamwork, communication, and intercultural skills, while learning from colleagues with different backgrounds and perspectives. I am looking for a job as a full-stack developer in a dynamic and innovative company where I can keep enhancing my skills, contribute to exciting projects, and make a difference.</p>
 
 <a href="https://www.yasirozdemir.com">yasirozdemir.com</a>
 
