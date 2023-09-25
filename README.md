@@ -8,12 +8,12 @@ I also have diverse international experience, having worked at Great Wolf Lodge 
 
 [![](https://visitcount.itsvg.in/api?id=yasirozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/yasirozdemir">
+<!-- <a href="https://github.com/yasirozdemir">
     <img
         width="400px"
-        src="https://github-profile-trophy.vercel.app/?username=yasirozdemir&theme=dracula&title=Commit,Stars,Followers&column=3&margin-w=15&margin-h=15" 
+        src="https://github-profile-trophy.vercel.app/?username=yasirozdemir&theme=dracula&title=Commit,Stars,Followers&column=3&margin-w=15&margin-h=15"
         />
-</a>
+</a> -->
 
 ## 🌐 Reach me out!
 
